@@ -58,24 +58,6 @@ Memory Search
 User: What did we discuss about benefits?
 Bot: 🔍 Found 3 matching messages:
      Message 2/10 - You: Tell me about benefits
-     ...
-
-📁 Project Structure
-langgraph-qa-bot/
-├── langgraph_bot.py      # Main application
-├── requirements.txt      # Python dependencies
-├── README.md            # This file
-├── LICENSE              # MIT License
-├── .gitignore           # Git ignore rules
-├── examples/            # Example documents
-│   └── sample_policy.txt
-├── tests/               # Unit tests
-│   ├── test_tools.py
-│   ├── test_rag.py
-│   └── test_workflow.py
-└── docs/               # Documentation
-    ├── architecture.md
-    └── api.md
 
 ⚙️ Configuration
 Environment Variables
